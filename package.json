@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.primetweenutilities",
 	"version": "1.0.0",
-	"displayName": "Prime Tween Utilities",
+	"displayName": "Five - Prime Tween Utilities",
 	"description": "Contain additional function/utilities for the PrimeTween package",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
